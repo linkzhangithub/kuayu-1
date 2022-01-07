@@ -1,4 +1,4 @@
-使用方法
+# 使用方法
 
 1. 下载代码 `git@github.com:linkzhangithub/kuayu-1.git`
 2. 进入 qq-com 运行 server.js `cd kuayu-1/qq-com; node server.js 8888`
